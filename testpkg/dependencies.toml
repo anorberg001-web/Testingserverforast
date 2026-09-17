@@ -1,0 +1,7 @@
+[main]
+
+[[dependency]]
+cargo = 1.88.0
+
+[compilation]
+//dependencies ONLY for compilation, deleted after install unless already in astral.lock.
