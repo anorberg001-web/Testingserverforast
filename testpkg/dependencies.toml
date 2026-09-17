@@ -2,4 +2,4 @@
 testdep = "1.0.0"
 
 [compilation]
-//dependencies only for compilation, deleted after install unless already in astral.lock
+# dependencies only for compilation, deleted after install unless already in astral.lock
