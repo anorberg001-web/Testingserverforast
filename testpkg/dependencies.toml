@@ -1,5 +1,5 @@
 [main]
-cargo = "1.88.0"
+testdep = "1.0.0"
 
 [compilation]
-//dependencies ONLY for compilation, deleted after install unless already in astral.lock.
+//dependencies only for compilation, deleted after install unless already in astral.lock
