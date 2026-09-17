@@ -1,3 +1,5 @@
 [metadata]
 title = "test"
-description = "package for testing astral. 1kb payload"
+description = "package for testing astral. 1mb payload for binary and an install script for src."
+version = "x.x.x"
+author = "anorberg001"
