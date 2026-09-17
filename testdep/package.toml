@@ -1,0 +1,5 @@
+[metadata]
+title = "testdependency"
+description = "dependency package for testing purposes."
+version = "1.0.0"
+author = "anorberg001"
